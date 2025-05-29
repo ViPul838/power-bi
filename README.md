@@ -1,3 +1,5 @@
+<img src="myinstagram.svg"/>
+
 # power-bi
 # 👋 Hi, I'm Vipul Panwar
 A passionate Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
